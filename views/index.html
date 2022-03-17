@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>URL Shortener</title>
+    <link rel="shortcut icon" href="https://github.com/johnchristotle/icon.png" type="icon/png" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="public/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <h3>URL Shortener Microservice</h3>
+
+    <form action="api/shorturl/new" method="POST">
+      <label for="url_input">URL To Be Shortened</label>
+      <input
+        id="url_input"
+        type="text"
+        name="url"
+        value="https://www.freecodecamp.org"
+      />
+      <input type="submit" value="Shorten" />
+    </form>
+    <p>by <a href="https://github.com/johnchristotle">Christotle Agholor</a></p>
+  </body>
+</html>
