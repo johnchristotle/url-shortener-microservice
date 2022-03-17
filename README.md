@@ -21,7 +21,6 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 https://www.freecodecamp.org/forum/
 
 ### To Run This App
-clone the git repo
-install dependancies
+clone the git repo and install dependancies
 
 npm run dev
