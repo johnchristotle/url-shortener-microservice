@@ -19,3 +19,9 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Will redirect to:
 
 https://www.freecodecamp.org/forum/
+
+### To Run This App
+clone the git repo
+install dependancies
+
+npm run dev
