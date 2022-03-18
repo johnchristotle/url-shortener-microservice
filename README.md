@@ -2,7 +2,7 @@
 
 View Live App
 
-https://boilerplate-project-urlshortener-5.christotle.repl.co/
+https://glitch.com/~url-shortner-microservice-johnchristotle
 
 
 ### User Stories
