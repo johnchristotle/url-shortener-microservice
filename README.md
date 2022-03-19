@@ -1,9 +1,5 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
-View Live App
-
-https://glitch.com/~url-shortner-microservice-johnchristotle
-
 
 ### User Stories
 
